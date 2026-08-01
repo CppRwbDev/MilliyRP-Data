@@ -1,9 +1,1 @@
-[
-    {
-      "ip": " 195.158.4.108",
-      "port": 7777,
-      "name": "MILLIY RP",
-      "online": 0,
-      "maxonline": 1000
-    }
- ]
+[{"ip": "195.158.4.108", "port": 7777, "name": "MILLIY RP", "online": 0, "maxonline": 1000}]
