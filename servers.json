@@ -1,0 +1,9 @@
+[
+    {
+      "ip": "127.0.0.1",
+      "port": 7777,
+      "name": "MILLIY RP",
+      "online": 0,
+      "maxonline": 1000
+    }
+ ]
